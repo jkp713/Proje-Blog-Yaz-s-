@@ -1,1 +1,9 @@
-# Proje-Blog-Yaz-s-
+# Proje-Blog
+
+Veri Bilimi/ Veri Analizi kavramlarini cok basit anlamda dusundugumde birden fazla verinin birbirleriyle olan iliskilerinin Veri Manipulasoynu yoluyla anlamlandirilmasi olarak ozetlemek eksiksiz bir tanim olmasa da ilk aklima geleni. Bu baglamda aslinda gunluk hayattaki tum olay ve oldularin, tum kavrmalarin ve nesnelerin veri ureten ve veriler araciligiyla uretilen soyut veya somut varliklar oldugunu dusunebiliriz. Hem bir veri nesnesi hem de bir veri oznesi olan dogadaki her sey bu baglamda Veri Biliminin calisma alanina girmekte. 
+
+Bu denli genis bir alanda dusunup sonuclar uretip kararlar alabilmemize olanak saglayan Veri Biliminin benim icin en carpici ozelliklerinden birisi ise, aslinda Veri Biliminin yalnizca materyal olan ideler uzerinde degil, soyut ideler uzerinde de kullaniminin  mumkun olmasi.Gunluk hayatta kullandigimiz bir cok kategorik kavramsallastirmayi da Veri Bilimi araciligiyla kategorik verilerin analizi ve manipulasyonu yoluyla incelememiz ve anlamlar cikarmamiz mumkun. Bu baglamda, aslinda Veri Bilimi aslinda organik bir sekilde gelistigi dusunulen kategorik kavramlara dair bizlere somut veriler sunarak bir cok soyut ve sosyal iliskiler ve kavramsallastirmalar agini anlamamiza yardimci olabilir. 
+
+Tum bu kapasitesi nedeyinle Veri Biliminin Sosyal Bilimler alani icin bir devrim yaratacak kapasiteye sahip oldugunu dusunuyorum. Cunku Veri Bilimi araciligiyla, binlerce yildir ortaya atilan Felsefi ve ozellikle Sosyolojik teorileri test edebilmek artik gun gectikce daha da mumkun hale geliyor. Bunu mumkun kilan sey ise Veri Bilimi ile beraber tabi ki Big Data kavraminin gun gectikce modern hayatin daha da merkezinde yer alamaya baslayarak bir cok konuda artik Veri sahibi olabilmenin mumkun olabilmesi. 
+
+tum bu nedenlerle Veri Bilimi sagladigi olanaklarla, gunluk hayatimizdaki bir cok konunun artik sade birer iddia, inanc veya manipulasyon olmaktan cikararak bu kavramlara test edilebilir bir nitelik kazandirip hayati daha kaliteli bir hale getirebilme ve medeniyete oldukca buyuk bir katki sunma kapasitene sahip. 
